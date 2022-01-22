@@ -1,0 +1,16 @@
+.DS_Store
+.classpath
+.settings/
+/.settings
+.classpath
+.project
+.settings/
+.metadata
+target/
+/log
+./maven
+maven
+/maven
+maven/
+mvnw
+.mvn/
